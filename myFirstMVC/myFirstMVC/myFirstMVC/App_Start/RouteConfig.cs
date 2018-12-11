@@ -14,16 +14,28 @@ namespace myFirstMVC
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapRoute(
-            name: "HelloWorld",
-            url: "{controller}/{action}/{name}/{id}",
-            defaults: new
-            {
-                controller = "HelloWorld",
-                action = "Index",
-                name = "World",
-                id = UrlParameter.Optional
-            }
-        );
+                name: "Concatenare",
+                url: "{controller}/{action}/{param1}/{param2}",
+                defaults: new
+                {
+                    controller = "Example",
+                    action = "Concatenare",
+                    param1 = UrlParameter.Optional,
+                    param2 = UrlParameter.Optional
+                }
+            );
+
+            routes.MapRoute(
+                name: "HelloWorld",
+                url: "{controller}/{action}/{name}/{id}",
+                defaults: new
+                {
+                    controller = "HelloWorld",
+                    action = "Index",
+                    name = "World",
+                    id = UrlParameter.Optional
+                }
+            );
 
             routes.MapRoute(
                 name: "Default",
