@@ -1,0 +1,86 @@
+{
+  id: 1, name: 'Curcan umplut',
+    tip: 'Mancare',
+      poza: 'https://retete.unica.ro/wp-content/uploads/2010/06/curcan-umplut-main.jpg',
+        timpPreparere: "200 min",
+          ingrediente: [
+            { nume: 'sare', cantitate: '100g' },
+            { nume: 'curcat', cantitate: '200g' },
+            { nume: 'ceapa', cantitate: '50g' }
+          ],
+            modPreparere: `Reteta de <strong>curcan umplut</strong> este perfecta pentru masa de Craciun sau de Revelion.
+    Nu stiu voi, insa in familia mea ne ferim de mancarea grasa si in special de carnea cu multa grasime.
+    Din acest motiv tatal meu nu consuma deloc carne de porc, iar mama si fratele meu foarte rar.Din acest motiv
+    preferam sa avem curcan pe masa de sarbatori.`,
+              numarPortii: 4
+},
+{
+  id: 2, name: 'Tarta cu Portocale si ciocolata',
+    tip: 'Desert',
+      timpPreparere: "30 min",
+        poza: 'https://retete.unica.ro/wp-content/uploads/2014/04/Tart%C4%83-cu-portocale.jpg',
+          ingrediente: [
+            { nume: 'foietaj', cantitate: '1 pachet' },
+            { nume: 'crema de ciocolata', cantitate: '3 linguri' },
+            { nume: 'portocale', cantitate: '2 bucati' }
+          ],
+            modPreparere: `Într-o tavă de tartă se aşază aluatul de foitaj şi ce trece peste margini se decupează. Se înţeapă fundul tartei cu furculiţa. 
+    Se unge fundul tartei cu crema de ciocolată moale ca să poată fi întinsă cu ajutorul unui cuţit cu lamă lată trecut prin apă rece.
+    Smântâna se amestecă cu gălbe-nuşurile şi se toarnă peste crema de ciocolată, scuturând uşor tava pentru a se aşeza.
+    Se pun deasupra felii de portocale foarte bine curăţate şi se presară cu ciocolată rasă sau fulgi de ciocolată. Se dă la cuptorul preîncălzit pentru
+    30 de minute.`,
+              numarPortii: 8
+},
+{
+  id: 3, name: 'Papanasi',
+    tip: 'Desert',
+      timpPreparere: "120 min",
+        poza: 'https://retete.unica.ro/wp-content/uploads/2013/11/papanasi-1-1024x684.jpg',
+          ingrediente: [
+            { nume: 'branza de vaci', cantitate: '250g' },
+            { nume: 'faina', cantitate: '3 linguri' },
+            { nume: 'ou', cantitate: '1 bucata' }
+          ],
+            modPreparere: `Oul se bate bine într-un castron. Adaugă peste bicarbonatul stins în prelabil cu o linguriță de oțet.
+    Adaugă brânza de vaci și amestecă bine. Apoi adaugă făina treptat până se încorporează toată, amestecând cu mâna.
+    Din aluatul rezultat modelează un fel de gogoșele cu gaură la mijloc și un număr egal de biluțe din aceeași cocă.
+    Într-o tigaie adâncă și mare care nu lipește, pune ulei la încins. Pune la prăjit atât gogoșelele, cât și biluțele,
+    până se rumenesc frumos pe fiecare parte.`,
+              numarPortii: 10
+},
+{
+  id: 4, name: 'Ciorba de burta',
+    tip: 'Mancare',
+      timpPreparere: "160 min",
+        poza: 'https://retete.unica.ro/wp-content/uploads/2017/11/ciorba-de-burta-cu-smantana-1024x684.jpg',
+          ingrediente: [
+            { nume: 'burta de vita', cantitate: '1 kg' },
+            { nume: 'ceapa', cantitate: '2 bucatai' },
+            { nume: 'piper negru', cantitate: 'dupa gust' }
+          ],
+            modPreparere: `Se spală bine burta în câteva ape şi apoi se pune la fiert împreună cu rasolul de vită. Când începe să facă spumă, 
+    se curăţă cu spumiera. După ce s-a limpezit zeama, oala se acoperă cu un capac şi se lasă să fiarbă la foc mic.
+    Ciorba de burtă este indicat să fiarbă la foc mic, ca să nu scadă.
+    Între timp, se curăţă zarzavaturile, se spală şi se adaugă în ciorbă, împreună cu câteva boabe de piper şi sare.
+    Separat, se curăţă usturoiul, se spală şi se pisează. Apoi se bat ouăle bine, se amestecă cu sare şi piper măcinat și cu crema de usturoi.
+    După ce au fiert burta şi rasolul de vită, se scot din oală împreună cu legumele şi se lasă să se răcorească. Se opreşte un morcov pentru ornat,
+    iar burta şi carnea de pe rasol se taie fâşii subţiri. Se pun în ciorbă şi se mai lasă să clocotească 5 minute.`,
+              numarPortii: 5
+},
+{
+  id: 5, name: 'Ciorba de loboda',
+    tip: 'Mancare',
+      timpPreparere: "60 min",
+        poza: 'https://retete.unica.ro/wp-content/uploads/2017/03/loboda-1024x683.jpg',
+          ingrediente: [
+            { nume: 'lobda', cantitate: '6 legaturi' },
+            { nume: 'morcovi', cantitate: '2 bucati' },
+            { nume: 'bors', cantitate: '500 ml' }
+          ],
+            modPreparere: `Se alege loboda, se spală de 4-5 ori în apă rece şi se lasă să se scurgă în sită.
+    În acest timp, se pun aproximativ 2 litri de apă să clocotească cu o linguriţă de sare. Se adaugă loboda. Se lasă să dea în câteva clocote şi se scoate din oala în care a fiert, apoi se pune la scurs în sită.
+    Se spală ceapa, morcovii şi cartofii, se taie cubuleţe potrivite şi se pun să fiarbă în zeama de lobodă. După ce au fiert, se toacă loboda şi se pune peste legumele fierte. Se condimentează cu sare şi puţin piper şi se lasă să clocotească.
+    Separat, se pune borşul într‑un ibric şi se lasă să dea în clocot, apoi se toarnă în oala cu ciorba de lobodă.
+    Se adaugă leuştean şi pătrunjel din abundenţă şi se serveşte fie cu smântână, fie cu iaurt, în funcţie de preferinţe.`,
+              numarPortii: 2
+},
