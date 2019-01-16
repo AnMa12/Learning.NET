@@ -1,4 +1,4 @@
-{
+﻿[{
   id: 1, name: 'Curcan umplut',
     tip: 'Mancare',
       poza: 'https://retete.unica.ro/wp-content/uploads/2010/06/curcan-umplut-main.jpg',
@@ -83,4 +83,4 @@
     Separat, se pune borşul într‑un ibric şi se lasă să dea în clocot, apoi se toarnă în oala cu ciorba de lobodă.
     Se adaugă leuştean şi pătrunjel din abundenţă şi se serveşte fie cu smântână, fie cu iaurt, în funcţie de preferinţe.`,
               numarPortii: 2
-},
+},]
